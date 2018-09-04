@@ -5,6 +5,7 @@ Aplicativo feito em React-native
 ## Bugs Conhecidos ##
 
 ##1. Login com Facebook##
+
 ###Container responsável: StartContainer###
 Ao tentar logar via facebook, utilizando o graphRequest ~~necessário para funcionamento da api~~, conseguimos pegar todas as informações necessárias da api do FB e realizar a requisição ao nosso servidor com sucesso, porém quando **aplicativo do Facebook não está instalado** e tentamos navegar para o próximo container recebemos o seguinte erro:
 
