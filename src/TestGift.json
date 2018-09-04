@@ -1,0 +1,23 @@
+{
+  "title":"Presente",
+  "alert":"Temos um presente para você",
+  "type":"gift",
+  "Gift":{
+    "IdToRescue":3692,
+    "IdToHex":"ZE6CG",
+    "Title":"Café Espresso",
+    "Description":"Espresso com 50ml",
+    "Expiration":"2018-04-30T23:59:59",
+    "Image":{
+      "XDPI":"https://www.mobiclub.com.br/Content/images/Itens/XDPI/reward_1101.jpg",
+      "HDPI":"https://www.mobiclub.com.br/Content/images/Itens/HDPI/reward_1101.jpg",
+      "MDPI":"https://www.mobiclub.com.br/Content/images/Itens/MDPI/reward_1101.jpg",
+      "LDPI":"https://www.mobiclub.com.br/Content/images/Itens/LDPI/reward_1101.jpg",
+      "MINI":"https://www.mobiclub.com.br/Content/images/Itens/MINI/reward_1101.jpg"
+    },
+    "Establishment":{
+      "Name":"São Braz",
+      "LogoURL":"https://www.mobiclub.com.br/Content/images/logo/establishment_39.Png"
+    }
+  }
+}
